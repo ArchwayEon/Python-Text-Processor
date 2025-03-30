@@ -1,0 +1,2 @@
+# No external dependencies required for this simple application
+# If we add dependencies later, they'll be listed here
